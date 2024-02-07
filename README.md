@@ -4,4 +4,6 @@
 - 🌱 I'm currently learning about large language models and keeping up with ML research.
 - 🤝 I'm open to collaborating on anything related to AI.
 - 📹 Check out my YouTube channel: [youtube.com/@PritishMishra](https://www.youtube.com/@PritishMishra)
-- 📧 Feel free to connect with me via Twitter DMs: https://twitter.com/Pritish88951762
+
+Twitter: https://twitter.com/PritishllM
+LinkedIn: https://www.linkedin.com/in/pritish31/
